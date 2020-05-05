@@ -1,23 +1,21 @@
 
 .smallUp {
-      width: 95px;
-      height: 195px;
+      grid-row-start : span 2;
 }
 
 .smallDown {
-      width: 200px;
-      height: 95px;
+      grid-column-start : span 2;
       
 }
 
 .square {
-      width: 200px;
-      height: 195px;
+      grid-column-start : span 2;
+      grid-row-start : span 2;
 }
 
 .bigUp {
-      width: 200px;
-      height: 300px;
+      grid-column-start : span 2;
+      grid-row-start : span 3;
 }
 
 
