@@ -1,0 +1,47 @@
+
+.smallUp {
+      width: 95px;
+      height: 195px;
+}
+
+.smallDown {
+      width: 200px;
+      height: 95px;
+      
+}
+
+.square {
+      width: 200px;
+      height: 195px;
+}
+
+.bigUp {
+      width: 200px;
+      height: 300px;
+}
+
+
+.yellow {
+      background-color: yellow;
+}
+
+.grey {
+      background-color: grey;
+}
+
+.red {
+      background-color: red;
+}
+
+.white {
+      background-color: white;
+}
+
+.blue {
+      background-color: blue;
+}
+
+.black {
+      background-color: black;
+}
+
